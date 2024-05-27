@@ -1,0 +1,19 @@
+.maincontent{
+    margin-top: 50px;
+    
+    
+}
+
+.form-div{
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+    padding: 20px 50px;
+    
+}
+
+.stockhead{
+    background-color: aliceblue;
+}
